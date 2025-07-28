@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  simulation-tests:
+    build: .
+    container_name: simulation-theory-test-kit
+    volumes:
+      # Mount results directory to persist outputs
+      - ./results:/app/results
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MPLBACKEND=Agg
+    command: python main_runner.py --all
+    
+  # Interactive development container
+  simulation-dev:
+    build: .
+    container_name: simulation-theory-dev
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MPLBACKEND=Agg
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    
+  # Jupyter notebook server
+  simulation-jupyter:
+    build: .
+    container_name: simulation-theory-jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''
+    
+networks:
+  default:
+    name: simulation-theory-network

@@ -1,0 +1,63 @@
+SIMULATION THEORY TEST SUITE - SUMMARY
+==================================================
+
+
+🎯 SIMULATION HYPOTHESIS ANALYSIS REPORT
+========================================
+
+OVERALL ASSESSMENT:
+- Suspicion Score: 0.486/1.000
+- Confidence Level: MEDIUM - Some computational signatures present
+- Datasets Analyzed: 5
+
+INDIVIDUAL DATASET ANALYSIS:
+
+📊 QUANTUM_MEASUREMENTS:
+   Simulation Probability: 0.801
+   Digital Signature Score: 0.403
+   Compression Artificiality: -0.092
+   Suspicious Patterns Found: 0
+
+📊 PLANCK_INTERVALS:
+   Simulation Probability: 0.980
+   Digital Signature Score: 0.680
+   Compression Artificiality: 0.109
+   Suspicious Patterns Found: 2
+
+📊 PHYSICAL_CONSTANTS:
+   Simulation Probability: 0.720
+   Digital Signature Score: 0.383
+   Compression Artificiality: -0.115
+   Suspicious Patterns Found: 0
+
+📊 CMB_TEMPERATURES:
+   Simulation Probability: 0.877
+   Digital Signature Score: 0.704
+   Compression Artificiality: 0.375
+   Suspicious Patterns Found: 3
+
+📊 GRAVITATIONAL_WAVES:
+   Simulation Probability: 0.912
+   Digital Signature Score: 0.430
+   Compression Artificiality: 0.120
+   Suspicious Patterns Found: 1
+
+CROSS-DATASET CORRELATIONS:
+   quantum_measurements_vs_planck_intervals: 0.1370 bits
+   quantum_measurements_vs_physical_constants: 1.8250 bits
+   quantum_measurements_vs_cmb_temperatures: 1.5589 bits
+   quantum_measurements_vs_gravitational_waves: 0.8419 bits
+   planck_intervals_vs_physical_constants: 1.7807 bits
+   planck_intervals_vs_cmb_temperatures: 0.1828 bits
+   planck_intervals_vs_gravitational_waves: 0.1648 bits
+   physical_constants_vs_cmb_temperatures: 2.9183 bits
+   physical_constants_vs_gravitational_waves: 2.1887 bits
+   cmb_temperatures_vs_gravitational_waves: 1.7151 bits
+
+INTERPRETATION:
+Minimal computational signatures detected. The data appears largely
+consistent with natural physical processes, though some minor anomalies
+were observed that warrant further investigation.
+
+⚠️  DISCLAIMER: This analysis is experimental and should not be considered
+    definitive evidence for or against the simulation hypothesis.
