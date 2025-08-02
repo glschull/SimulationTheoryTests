@@ -52,7 +52,7 @@ Machine learning works the same way:
 
 The "magic" is that the computer finds patterns humans might miss. Maybe it notices that dogs' ear shadows have a specific shape, or that dog photos tend to be taken at certain angles.
 
-In my research, I use machine learning to find patterns across completely different types of physics data - cosmic rays, gravitational waves, etc. The computer finds connections that no human would think to look for!
+In my project, I use machine learning to find patterns across completely different types of physics data - cosmic rays, gravitational waves, etc. The computer finds connections that no human would think to look for!
 
 The key insight: instead of programming specific rules, we let the computer learn the rules from examples. It's like learning by experience rather than memorizing a textbook.
 ```
@@ -246,9 +246,9 @@ Effect size: Information theory provides natural effect size measures
 - Instrumental correlations (shared systematic errors)
 - Selection effects in data processing
 
-Any recommendations for additional statistical validation approaches? This is pushing the boundaries of what I learned in grad school!
+Any recommendations for additional statistical validation approaches? This is pushing the boundaries of what I've been able to teach myself!
 
-**Background:** Physics PhD working on empirical testing of fundamental questions about information structure in nature.
+**Background:** Self-taught physics enthusiast working on empirical testing of fundamental questions about information structure in nature.
 ```
 
 ---
@@ -278,7 +278,7 @@ The speed of light being constant means that space and time are not separate, ab
 
 This principle led to both special and general relativity, GPS satellites, particle accelerators, and our understanding of black holes and the expanding universe.
 
-**Fun Fact:** In my research analyzing cosmic data, we actually use this constancy as a fundamental assumption when measuring distances to galaxies billions of light-years away!
+**Fun Fact:** In my analysis of cosmic data, I've learned that we actually use this constancy as a fundamental assumption when measuring distances to galaxies billions of light-years away!
 ```
 
 ---
@@ -354,7 +354,7 @@ df_knn = pd.DataFrame(knn_imputer.fit_transform(df), columns=df.columns)
 - **Validate results** - compare statistics before/after imputation
 - **Consider domain knowledge** - sometimes missing means something specific
 
-In my physics research, missing data often means "below detection threshold" rather than truly missing, which changes how we handle it!
+In my self-taught journey analyzing physics data, missing data often means "below detection threshold" rather than truly missing, which changes how we handle it!
 
 What type of data are you working with? The best approach depends on your specific use case.
 ```

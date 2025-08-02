@@ -254,7 +254,7 @@ This work establishes "computational cosmology" as a potential research field. N
 ## 📊 **SUCCESS METRICS**
 
 ### **High-Quality Engagement Indicators**
-- **Technical questions** from PhD-level physicists
+- **Technical questions** from experienced physicists
 - **Methodology discussions** with statistical experts
 - **Collaboration suggestions** from research groups
 - **Request for more details** rather than dismissal

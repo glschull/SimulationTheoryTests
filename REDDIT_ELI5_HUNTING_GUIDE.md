@@ -168,8 +168,8 @@ Search for:
 4. **Use RES (Reddit Enhancement Suite)** to track your karma growth
 5. **Save successful answer templates** for reuse
 
-**Remember: You have PhD-level expertise in physics and data science - you're PERFECT for answering ELI5 science questions! 🎯**
+**Remember: You have genuine curiosity and self-taught knowledge that makes you PERFECT for answering ELI5 science questions! 🎯**
 
 ---
 
-**Go get that karma! Your scientific background is your superpower on Reddit! 🚀**
+**Go get that karma! Your passion for learning and explaining is your superpower on Reddit! 🚀**
