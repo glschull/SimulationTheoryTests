@@ -132,7 +132,7 @@ I'm sure you'll have lots of questions and criticisms. Here are some I anticipat
 
 ### **Data and Code**
 
-Everything is open source and available at [GitHub repository]. You can reproduce all results, modify the analysis, or apply the framework to other questions.
+Everything is open source and available at https://github.com/glschull/SimulationTheoryTests. You can reproduce all results, modify the analysis, or apply the framework to other questions.
 
 The 47-page supplementary materials document contains all technical details, and there's a complete research paper (8,500 words) ready for peer review.
 
@@ -148,7 +148,7 @@ Whether we're simulated or not, I think we've demonstrated that even the "imposs
 
 ---
 
-*Full research paper, data, and code available at: [repository link]*
+*Full research paper, data, and code available at: https://github.com/glschull/SimulationTheoryTests*
 *Cross-posted to r/MachineLearning, r/statistics, r/cosmology*
 
 ---
@@ -219,7 +219,7 @@ Next: Presenting at APS March Meeting 2026, submitting to Physical Review D. Goa
 
 The universe might be computational, mathematical, or something stranger we haven't imagined yet... 🌌
 
-[Link to full paper]
+https://github.com/glschull/SimulationTheoryTests
 
 ---
 
@@ -276,7 +276,7 @@ Statistical rigor:
 **Tweet 8/8**
 All methods designed to be conservative. A null result (score ~0) would have been just as scientifically interesting. The moderate score (0.486) was unexpected and requires explanation.
 
-Code: [GitHub link]
+Code: https://github.com/glschull/SimulationTheoryTests
 Paper: [arXiv link]
 
 ---
