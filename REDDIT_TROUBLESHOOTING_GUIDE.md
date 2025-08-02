@@ -4,19 +4,24 @@
 
 ### **Why Posts Get Auto-Removed:**
 
-1. **Spam Filter Triggers**:
-   - Account age/karma too low
+1. **Karma Requirements** (MOST COMMON for new accounts):
+   - r/datascience: Requires 10-50+ comment karma
+   - r/MachineLearning: Lower but variable requirements
+   - r/statistics: Moderate karma thresholds
+   - Account age minimums (1-7 days)
+
+2. **Spam Filter Triggers**:
    - Keywords like "simulation" trigger filters
    - External links (GitHub) flagged as self-promotion
    - Post length too long for some filters
 
-2. **AutoModerator Rules**:
+3. **AutoModerator Rules**:
    - Missing required flair
    - Title format violations
    - Keyword blacklists
    - Link restrictions
 
-3. **Community Guidelines**:
+4. **Community Guidelines**:
    - Self-promotion detection
    - Insufficient technical detail
    - Off-topic content flags
@@ -25,7 +30,36 @@
 
 ## 🔧 **Immediate Solutions**
 
-### **Option 1: Repost with Modifications**
+### **Option 1: Build Karma First (RECOMMENDED)**
+
+**See REDDIT_KARMA_STRATEGY.md for complete plan**
+
+**Quick Karma Sources (1-2 weeks to 50+ karma)**:
+- **r/explainlikeimfive**: Answer science questions (easy karma)
+- **r/AskScience**: Provide physics insights
+- **r/learnpython**: Help with data analysis questions
+- **r/statistics**: Answer statistical methodology questions
+
+**Daily Routine** (30 min/day):
+1. Morning: Answer 1-2 science questions on r/explainlikeimfive
+2. Lunch: Comment on r/AskScience physics threads
+3. Evening: Help with Python/stats questions
+
+**Timeline**: 
+- Week 1: Build to 25+ karma through helpful comments
+- Week 2: Post quality content, reach 50+ karma threshold
+- Target: r/datascience access in 10-14 days
+
+### **Option 2: Alternative Subreddits (NO karma requirements)**
+
+**Immediate posting options**:
+- **r/datasets**: Focus on methodology for heterogeneous data
+- **r/analytics**: Business analytics perspective on correlations
+- **r/AskStatistics**: Pose methodological questions
+- **r/dataisbeautiful**: Share your visualization plots
+- **r/Python**: Technical implementation discussion
+
+### **Option 3: Repost with Modifications**
 
 #### **Revised Title (Avoid "simulation" keyword)**:
 ```
